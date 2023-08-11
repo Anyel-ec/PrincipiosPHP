@@ -1,43 +1,43 @@
-# Repositorio de Proyectos Sencillos en PHP
+# Simple Project Repository in PHP
 
-¡Bienvenido al repositorio de proyectos sencillos en PHP! En este repositorio, encontrarás una serie de proyectos diseñados para ayudarte a comprender y aprender varios temas relacionados con PHP de manera práctica. Cada proyecto abordará un concepto específico y estará acompañado de explicaciones detalladas para que puedas seguir fácilmente el proceso de desarrollo.
+Welcome to the Simple PHP Projects Repository! In this repository, you'll find a series of projects designed to help you understand and learn various PHP-related topics in a practical way. Each project will address a specific concept and will be accompanied by detailed explanations so that you can easily follow the development process.
 
-## Acerca de este Repositorio
+## About this Repository
 
-Este repositorio ha sido creado con el propósito de proporcionar ejemplos sencillos y prácticos  que te permitan explorar diversos aspectos de PHP. Los proyectos aquí presentes están diseñados de manera didáctica, lo que significa que son ideales tanto para principiantes que están dando sus primeros pasos en el mundo del desarrollo web como para aquellos que buscan reforzar sus conocimientos.
+This repository has been created with the purpose of providing practical examples that allow you to explore various aspects of PHP. The projects presented here are designed in a didactic way, which means that they are ideal both for beginners who are taking their first steps in the world of web development and for those who seek to reinforce their knowledge.
 
-## Cómo Utilizar este Repositorio
+## How to Use this Repository
 
-Cada proyecto en este repositorio se encuentra en su propia carpeta, debidamente etiquetada con el nombre del proyecto y el tema que aborda. Dentro de cada carpeta, encontrarás:
+Each project in this repository is in its own folder, appropriately labeled with the name of the project and the topic it addresses. Inside each folder, you will find:
 
-1. **Código Fuente**: Los archivos PHP y otros archivos relacionados necesarios para el proyecto.
-2. **Instrucciones**: Un archivo de instrucciones detallado que explica el objetivo del proyecto y cómo desarrollarlo paso a paso.
-3. **Explicaciones**: Un archivo que desglosa los conceptos clave relacionados con el proyecto, brindando contexto y claridad.
+1. **Source Code**: The PHP files and other related files needed for the project.
+2. **Instructions**: A detailed instructions file that explains the goal of the project and how to develop it step by step.
+3. **Explanations**: A file that breaks down the key concepts related to the project, providing context and clarity.
 
-## Lista de Proyectos
+## List of Projects
 
-1. **Introducción a PHP**: Un proyecto simple para comenzar a familiarizarte con la sintaxis básica de PHP y cómo se mezcla con HTML.
+1. **Introduction to PHP**: A simple project to start you familiar with the basic syntax of PHP and how it mixes with HTML.
 
-2. **Formularios y Procesamiento de Datos**: Aprende cómo crear formularios HTML y cómo procesar los datos enviados utilizando PHP.
+2. **Forms and Data Processing**: Learn how to create HTML forms and how to process submitted data using PHP.
 
-3. **Gestión de Archivos**: Explora cómo trabajar con archivos en PHP, incluyendo la lectura y escritura de datos en archivos.
+3. **File Management**: Explore how to work with files in PHP, including reading and writing data in files.
 
-4. **Manipulación de Cadenas**: Aprende a manipular cadenas de texto utilizando las funciones y métodos disponibles en PHP.
+4. **String Manipulation**: Learn to manipulate text strings using the functions and methods available in PHP.
 
-5. **Bases de Datos y MySQL**: Crea una aplicación sencilla que interactúe con una base de datos MySQL, realizando operaciones de lectura y escritura.
+5. **Databases and MySQL**: Create a simple application that interacts with a MySQL database, performing read and write operations.
 
-6. **Sesiones y Cookies**: Comprende cómo utilizar sesiones y cookies para mantener el estado de la aplicación entre diferentes solicitudes del usuario.
+6. **Sessions and Cookies**: Understands how to use sessions and cookies to maintain the state of the application between different user requests.
 
-7. **Autenticación de Usuarios**: Implementa un sistema básico de autenticación de usuarios utilizando PHP y MySQL.
+7. **User Authentication**: Implements a basic user authentication system using PHP and MySQL.
 
-8. **APIs y Consumo de Datos**: Aprende cómo consumir datos de una API externa y mostrarlos en tu aplicación PHP.
+8. **APIs and Data Consumption**: Learn how to consume data from an external API and display it in your PHP application.
 
-9. **Manipulación de Fechas y Horas**: Explora cómo trabajar con fechas y horas en PHP, realizando cálculos y formateando la salida.
+9. **Date and Time Manipulation**: Explore how to work with dates and times in PHP, performing calculations and formatting the output.
 
-10. **Seguridad en PHP**: Descubre prácticas recomendadas para asegurar tu aplicación PHP y protegerla contra vulnerabilidades comunes.
+10. **PHP Security**: Discover best practices to secure your PHP application and protect it against common vulnerabilities.
 
-## Contribuciones
+## Contributions
 
-Si deseas contribuir a este repositorio agregando más proyectos o mejorando los proyectos existentes, ¡tus contribuciones son bienvenidas! Solo asegúrate de seguir las pautas de contribución que se encuentran en el archivo CONTRIBUTING.md.
+If you want to contribute to this repository by adding more projects or improving existing projects, your contributions are welcome! Just be sure to follow the contribution guidelines found in the CONTRIBUTING.md file.
 
-Esperamos que disfrutes explorando y aprendiendo con estos proyectos en PHP. ¡Feliz codificación!
+We hope you enjoy exploring and learning with these PHP projects. Happy coding!
